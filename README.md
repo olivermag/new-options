@@ -4,4 +4,4 @@
 
 #command used:  rails new new_options -T -G
 
-#no test files or .gitignore
+#no test files or .gitignore  
